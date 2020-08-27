@@ -1,0 +1,11 @@
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\Phone\bin\Debug\netcoreapp3.1\Phone.exe
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\Phone\bin\Debug\netcoreapp3.1\Phone.deps.json
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\Phone\bin\Debug\netcoreapp3.1\Phone.runtimeconfig.json
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\Phone\bin\Debug\netcoreapp3.1\Phone.runtimeconfig.dev.json
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\Phone\bin\Debug\netcoreapp3.1\Phone.dll
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\Phone\bin\Debug\netcoreapp3.1\Phone.pdb
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\Phone\obj\Debug\netcoreapp3.1\Phone.csprojAssemblyReference.cache
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\Phone\obj\Debug\netcoreapp3.1\Phone.AssemblyInfoInputs.cache
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\Phone\obj\Debug\netcoreapp3.1\Phone.AssemblyInfo.cs
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\Phone\obj\Debug\netcoreapp3.1\Phone.dll
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\Phone\obj\Debug\netcoreapp3.1\Phone.pdb
